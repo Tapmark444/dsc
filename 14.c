@@ -70,3 +70,19 @@ int main() {
 
     return 0;
 }
+/*
+INPUT:
+Enter number of vertices: 4
+Enter adjacency matrix:
+0 1 1 0
+1 0 0 1
+1 0 0 1
+0 1 1 0
+
+Enter starting vertex for DFS: 0
+Enter starting vertex for BFS: 0
+OUTPUT:
+DFS Traversal: 0 1 3 2
+BFS Traversal: 0 1 2 3
+
+*/

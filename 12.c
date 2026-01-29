@@ -85,3 +85,14 @@ int main() {
 
     return 0;
 }
+/*
+INPUT:
+Enter number of nodes: 5
+Enter elements to insert:
+50 30 70 20 40
+OUTPUT:
+In-order Traversal: 20 30 40 50 70
+Pre-order Traversal: 50 30 20 40 70
+Post-order Traversal: 20 40 30 70 50
+
+*/

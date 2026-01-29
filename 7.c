@@ -106,3 +106,32 @@ int main() {
 
     return 0;
 }
+/*
+INPUT :
+Enter size of circular queue: 3
+
+1. Insert
+2. Delete
+3. Display
+4. Exit
+Enter your choice: 1
+Enter item to insert: 10
+Inserted 10
+
+Enter your choice: 1
+Enter item to insert: 20
+Inserted 20
+
+Enter your choice: 3
+OR
+Delete example
+Enter your choice: 2
+Deleted 10
+
+Enter your choice: 3
+OR
+Overflow case
+Inserted 30
+Inserted 40
+Queue Overflow
+*/

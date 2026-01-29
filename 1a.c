@@ -39,3 +39,14 @@ int main() {
 
     return 0;
 }
+
+/*
+OUTPUT :
+Enter number of elements: 5
+Enter sorted elements:
+10 20 30 40 50
+Enter element to search: 30
+
+Element found at position 3
+
+*/

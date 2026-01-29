@@ -94,3 +94,18 @@ int main() {
 
     return 0;
 }
+/*
+INPUT:
+1. Push
+2. Pop
+3. Display
+4. Exit
+Enter your choice: 1
+Enter item to push: 10
+Enter your choice: 1
+Enter item to push: 20
+Enter your choice: 3
+ OUTPUT :
+ Stack contents: 20 10
+
+*/

@@ -90,3 +90,25 @@ int main() {
         }
     }
 }
+/*
+INPUT :
+Enter your choice: 1
+Enter key to insert: 23
+Enter key to insert: 33
+Inserted 33 at index 4
+Hash Table:
+Index 0 : -1
+Index 1 : -1
+Index 2 : -1
+Index 3 : 23
+Index 4 : 33
+Index 5 : -1
+Index 6 : -1
+Index 7 : -1
+Index 8 : -1
+Index 9 : -1
+Enter key to search: 33
+OUTPUT:
+Key 33 found at index 4
+
+*/

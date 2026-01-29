@@ -112,3 +112,12 @@ int main() {
 
     return 0;
 }
+/*
+INPUT :
+Enter number of nodes: 5
+Enter elements:
+50 30 70 20 40
+OUTPUT :
+Inorder Traversal using Threading: 20 30 40 50 70
+
+*/

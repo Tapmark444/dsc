@@ -32,3 +32,13 @@ int main() {
 
     return 0;
 }
+/*
+OUTPUT :
+Enter number of elements: 5
+Enter elements:
+64 25 12 22 11
+
+Sorted array:
+11 12 22 25 64
+
+*/

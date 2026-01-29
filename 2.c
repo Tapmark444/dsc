@@ -60,3 +60,20 @@ int main() {
 
     return 0;
 }
+/*
+INPUT :
+Enter number of terms in Polynomial 1: 3
+Enter terms (coeff exp) in descending order:
+5 3
+4 2
+2 0
+
+Enter number of terms in Polynomial 2: 3
+Enter terms (coeff exp) in descending order:
+3 3
+1 1
+6 0
+OUTPUT :
+Resultant Polynomial: 8x^3 +4x^2 +1x^1 +8x^0
+
+*/

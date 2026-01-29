@@ -54,3 +54,13 @@ int main() {
 
     return 0;
 }
+/*
+INPUT :
+Enter number of elements: 6
+Enter elements:
+38 27 43 3 9 82
+OUTPUT:
+Sorted list:
+3 9 27 38 43 82
+
+*/

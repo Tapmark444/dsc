@@ -41,12 +41,12 @@ int main() {
 }
 
 /*
-OUTPUT :
+INPUT :
 Enter number of elements: 5
 Enter sorted elements:
 10 20 30 40 50
 Enter element to search: 30
-
+OUTPUT :
 Element found at position 3
 
 */

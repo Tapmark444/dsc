@@ -105,3 +105,18 @@ int main() {
 
     return 0;
 }
+/*
+INPUT :
+1. Add
+2. Delete
+3. Display
+4. Exit
+Enter your choice: 1
+Enter item to add: 10
+Enter your choice: 1
+Enter item to add: 20
+Enter your choice: 3
+OUTPUT :
+Queue contents: 10 20
+
+*/

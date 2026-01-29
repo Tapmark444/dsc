@@ -61,3 +61,10 @@ int main() {
 
     return 0;
 }
+/*
+INPUT :
+Enter postfix expression: 23*54*+9-
+OUTPUT :
+Result = 17
+
+*/

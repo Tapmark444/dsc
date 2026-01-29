@@ -29,3 +29,13 @@ int main() {
 
     return 0;
 }
+/* 
+INPUT :
+Enter the text: AABAACAADAABAABA
+Enter the pattern: AABA
+ OUTPUT :
+ Pattern found at position 0
+Pattern found at position 9
+Pattern found at position 12
+
+*/

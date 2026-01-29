@@ -131,3 +131,18 @@ int main() {
 
     return 0;
 }
+/*
+INPUT :
+1. Insert
+2. Delete
+3. Display
+4. Exit
+Enter your choice: 1
+Enter item to insert: 10
+Enter your choice: 1
+Enter item to insert: 20
+Enter your choice: 3
+OUTPUT :
+Doubly Linked List: 10 20
+
+*/

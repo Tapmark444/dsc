@@ -115,3 +115,23 @@ int main() {
         }
     }
 }
+/*
+INPUT :
+1. Insert
+2. Delete
+3. Display
+4. Exit
+Enter your choice: 1
+Enter item to insert: 50
+Enter your choice: 1
+Enter item to insert: 30
+Inserted 30
+
+Enter your choice: 1
+Enter item to insert: 40
+Inserted 40
+Enter your choice: 3
+OUTPUT:
+Heap contents: 50 30 40
+
+*/

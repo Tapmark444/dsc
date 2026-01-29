@@ -79,3 +79,10 @@ int main() {
 
     return 0;
 }
+/*
+INPUT :
+Enter infix expression: A+B*C
+OUTPUT :
+Postfix expression: AB+C*
+
+*/

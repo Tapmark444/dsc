@@ -55,3 +55,26 @@ int main() {
 
     return 0;
 }
+/*
+INPUT :
+Enter rows, columns and non-zero elements: 3 3 3
+Enter row col value:
+0 0 5
+0 2 8
+2 1 6
+OUTPUT :
+Original Sparse Matrix:
+Row  Col  Val
+3    3    3
+0    0    5
+0    2    8
+2    1    6
+
+Transposed Sparse Matrix:
+Row  Col  Val
+3    3    3
+0    0    5
+1    2    6
+2    0    8
+
+*/

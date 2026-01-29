@@ -65,3 +65,11 @@ int main() {
 
     return 0;
 }
+/*
+INPUT :
+Enter the text: ABABDABACDABABCABAB
+Enter the pattern: ABABCABAB
+OUTPUT :
+Pattern found at position 10
+
+*/

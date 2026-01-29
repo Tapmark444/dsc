@@ -124,3 +124,22 @@ int main() {
 
     return 0;
 }
+/*
+INPUT :
+Enter number of terms in Polynomial 1: 3
+Enter coefficient and exponent:
+5 3
+4 2
+2 0
+
+Enter number of terms in Polynomial 2: 3
+Enter coefficient and exponent:
+3 3
+1 1
+6 0
+OUTPUT :
+Polynomial 1: 5x^3 + 4x^2 + 2x^0
+Polynomial 2: 3x^3 + 1x^1 + 6x^0
+Resultant Polynomial: 8x^3 + 4x^2 + 1x^1 + 8x^0
+
+*/
